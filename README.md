@@ -1,4 +1,4 @@
-# Project huangqiangbei-hackios: macOS 27 (Sequoia) on Wearables
+# Project huangqiangbei-hackios: macOS 27 (Gold Golden) on Wearables
 
 ![Status](https://img.shields.io/badge/Status-Stable-success)
 ![Platform](https://img.shields.io/badge/Platform-ARM64--HQB-blue)
