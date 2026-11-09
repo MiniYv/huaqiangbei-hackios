@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Stable-success)
 ![Platform](https://img.shields.io/badge/Platform-ARM64--HQB-blue)
-![Base](https://img.shields.io/badge/Base-UniXNU%20v3.1.2-green)
+![Base](https://img.shields.io/badge/Base-UniXNU%20-green)
 ![AI-Assisted](https://img.shields.io/badge/AI--Tokens%20Consumed-30Billion-brightgreen)
 ![Developer](https://img.shields.io/badge/Developer-MiniYv%20(%E5%B0%8F%E7%A6%B9)-purple)
 
